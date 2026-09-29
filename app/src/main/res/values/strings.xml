@@ -1,0 +1,4 @@
+<resources>
+<!--    Well for small project hardcode is ok huh -->
+    <string name="app_name">Schedule</string>
+</resources>
