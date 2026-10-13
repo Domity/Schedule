@@ -11,7 +11,7 @@ object ColorUtils {
         return try {
             Color(colorHex.toColorInt())
         } catch (_: Exception) {
-            Color(0xFF107C41) // 万一呢
+            Color(0xFFA5A6FD) // 万一呢
         }
     }
 //  创建砖块中间的透明颜色
